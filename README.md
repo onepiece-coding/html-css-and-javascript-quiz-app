@@ -45,7 +45,7 @@ You will need a modern web browser and a code editor like [Visual Studio Code](h
   
 - Click the "Submit" button to see your results.
   
-- The app will display your score and the correct answers.
+- The app will display your score.
 
 #### Project Structure
   
