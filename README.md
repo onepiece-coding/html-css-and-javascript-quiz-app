@@ -31,9 +31,9 @@ You will need a modern web browser and a code editor like [Visual Studio Code](h
 
 3. Navigate into the project directory:
 
-  ```bash
-  cd html-css-and-javascript-quiz-app
-  ```
+   ```bash
+   cd html-css-and-javascript-quiz-app
+   ```
 
 3. Open the index.html file in your web browser to run the app.
 
