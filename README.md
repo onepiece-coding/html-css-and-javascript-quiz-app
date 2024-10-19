@@ -12,7 +12,7 @@ A simple and interactive quiz application built using HTML, CSS, and JavaScript.
 
 ## Demo
 
-Check out the live demo: [Quiz App Demo](#) *(https://html-css-and-javascript-quiz-app.vercel.app/)*
+Check out the live demo: [Quiz App Demo](https://html-css-and-javascript-quiz-app.vercel.app/)
 
 ## Getting Started
 
